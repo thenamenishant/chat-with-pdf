@@ -1,0 +1,10 @@
+langchain
+openai
+pypdf
+faiss-cpu
+streamlit
+python-dotenv
+tiktoken
+pyttsx3
+speechrecognition
+pyaudio
